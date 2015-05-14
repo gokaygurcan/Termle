@@ -1,0 +1,35 @@
+{
+  "name": "Termle",
+  "version": "0.1.0",
+  "description": "Google in your terminal",
+  "main": "index.js",
+  "homepage": "https://github.com/gokaygurcan/Termle",
+  "scripts": {
+    "preinstall": "node -e 'process.exit(0)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokaygurcan/Termle.git"
+  },
+  "keywords": [
+    "Google",
+    "terminal",
+    "search"
+  ],
+  "author": {
+    "name": "Gökay Gürcan",
+    "email": "gokaygurcan@gmail.com",
+    "url": "http://www.gokaygurcan.com"
+  },
+  "contributors": [],
+  "preferGlobal": true,
+  "copyright": "2015",
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.githubusercontent.com/gokaygurcan/Termle/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/gokaygurcan/Termle/issues"
+  }
+  
+}
